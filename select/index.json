@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嘆きのアウロラ",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T08:07:44.890989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘆きのアウロラ (feat. VALSHE)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_嘆きのアウロラ_(feat._VALSHE)_未来古代楽団.txt"
+    }
+  ]
+}
